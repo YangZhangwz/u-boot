@@ -717,6 +717,7 @@ dtb-$(CONFIG_ARCH_MEDIATEK) += \
 	mt7629-rfb.dtb
 
 dtb-y += ast2600-dpu.dtb
+dtb-y += ast2600-dpu25.dtb
 
 targets += $(dtb-y)
 
